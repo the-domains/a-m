@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.9994629
+  brandStrength: 0.4709989
+  brandColors:
+    - '#14100E'
+    - '#AEA192'
+    - '#6F6354'
+    - '#DFC5B5'
+    - '#653A29'
+  rhythmicContrast: 1
+typography_spectrum: 1
+name: 'A&M'
