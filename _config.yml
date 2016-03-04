@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 1
-  lightness: 0.9994629
-  brandStrength: 0.4709989
+  brandStrength: 0.7416756
+  lightness: 1
   brandColors:
-    - '#14100E'
-    - '#AEA192'
-    - '#6F6354'
-    - '#DFC5B5'
-    - '#653A29'
+    - '#D8D8D8'
+    - '#FFFFFF'
+    - '#020204'
+    - '#C69A6F'
+    - '#C67739'
   rhythmicContrast: 1
-typography_spectrum: 1
+typography_spectrum: 0.5139635
+layout_spectrum: 1
 name: 'A&M'
