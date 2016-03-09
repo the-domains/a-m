@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[A&M]]></title>
         <description><![CDATA[A&M]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-m/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 11:03:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 07:17:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-m/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Happy 5th Anniversary]]></title>
-            <description><![CDATA[<article><h1>Happy 5th Anniversary</h1><h2>To My One & Only,</h2><p>This is to commemorate our 5 years of breathtaking, rollercoaster ride of our lives that we have been on... I wouldn't trade it for anything ... it wouldn't be able to come close to what we have. To you my love, Happy Anniversary and to many more! I love you Matt more than I can ever truly express in words.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1070665-6c3a-4f28-bc90-55de7cfa4119.jpg"></article>]]></description>
-            <link>undefinedhappy-5th-anniversary/index.html</link>
+            <description><![CDATA[<article><h1>Happy 5th Anniversary</h1><h2>To My One & Only,</h2><p>This is to commemorate our 5 years of breathtaking, rollercoaster ride of our lives that we have been on... I wouldn't trade it for anything ... it wouldn't be able to come close to what we have. To you my love, Happy Anniversary and to many more! I love you Matt more than I can ever truly express in words.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc651588548891ca88afc2373796aca2d123c846.jpg"></article>]]></description>
+            <link>https://thegrid.ai/a-m/happy-5th-anniversary/index.html</link>
             <guid isPermaLink="false">07783d75-b09f-4739-97ce-38ec9e582661</guid>
-            <pubDate>Fri, 04 Mar 2016 11:02:59 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 07:16:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
