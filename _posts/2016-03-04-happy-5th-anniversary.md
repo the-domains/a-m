@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:02:59.860Z'
-dateModified: '2016-03-04T11:02:33.681Z'
+datePublished: '2016-03-09T07:16:59.356Z'
+dateModified: '2016-03-04T12:01:49.025Z'
 title: Happy 5th Anniversary
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-03-04-happy-5th-anniversary.md
 published: true
 url: happy-5th-anniversary/index.html
