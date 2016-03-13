@@ -1,3 +1,7 @@
+name: 'A&M'
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5139635
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.7416756
-  lightness: 1
   brandColors:
     - '#D8D8D8'
     - '#FFFFFF'
     - '#020204'
     - '#C69A6F'
     - '#C67739'
+  brandStrength: 0.7416756
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.5139635
-layout_spectrum: 1
-name: 'A&M'
+purpose: []
