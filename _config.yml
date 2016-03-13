@@ -1,40 +1,40 @@
-name: 'A&M'
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.5139635
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0
+  brandColors:
+    - '#D7CECF'
+    - '#030102'
+    - '#B4A3A3'
+    - '#775D5B'
+    - '#B46543'
+  rhythmicContrast: 0
+typography_spectrum: 0.5139635
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#D8D8D8'
-    - '#FFFFFF'
-    - '#020204'
-    - '#C69A6F'
-    - '#C67739'
-  brandStrength: 0.7416756
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+  domain: null
+layout_spectrum: 0.5193341
+favicon: null
+name: 'A&M'
